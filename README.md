@@ -1,4 +1,4 @@
-# H1-FinTech-Case-Study
+# TrendSpider
 
 ## Overview and Origin
 Trendspider is a Niche Theory Holdings Company.  Niche Theory Holdings LLC was formed on March 16, 2018 while Trendspider LLC was formed on March 9, 2018 and Trendspider Applied Technical Analysis LLC was formed on December 26, 2018.  The company was founded by Dan Ushman and Ruslan Lagutin. The idea for the company was formed in 2016 when Dan and Ruslan were tired of the inefficiences and sub-par results of manual charting.  Their goals was to build a charting platform that would help reduce "profit-killing" mistakes by making chart analysis more consistent. Trendspider is a private company so funding data is not availalbe.  From what I can find it is self-funded by Dan Ushman after his previous start-up SingleHop was acquired in 2018 for $132 million in cash.
@@ -41,7 +41,7 @@ The company is relatively new in the space so there is not much data on it's imp
 
 ## Recommendations
 
-If I were advising the company I would recommend to:
+If I were advising the company I would recommend:
 
 	1. Real-time data for all markets
 	2. Integrate with brokerage/trading accounts
@@ -65,4 +65,4 @@ The techologies the new products could utilize are FPGA or Hadoop.  These two op
 8. https://www.youtube.com/watch?v=CuzzvfHAozU&t=76s
 9. https://www.tradersmagazine.com/departments/buyside/trendspider-announces-new-raindrop-charts-to-analyze-market-sentiment/
 10. https://www.trendspider.com/blog/trendspider-company-update-and-roadmap-overview-2020/
-11. 
+11. https://steemit.com/money/@marketstack/what-kind-of-technology-is-used-in-hft
